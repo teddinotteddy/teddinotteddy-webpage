@@ -1,4 +1,9 @@
-body {background: lightblue; font-family: arial;}
+body {
+  background: lightblue; 
+  font-family: arial;
+  margin: 0;
+  padding: 0;
+}
 h1 {background-color:white; text-align: center}
 a {color: white}
   color: white;
