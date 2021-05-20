@@ -2,6 +2,8 @@ body {
   background: lightblue; 
   font-family: arial;
   text-align: center;
+  margin: 0;
+  padding: 0;
 }
 
 h1 {
